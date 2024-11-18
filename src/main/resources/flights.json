@@ -1,0 +1,8002 @@
+[
+    {
+        "flightId": "FL2572",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2023-12-21",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL4553",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2023-12-07",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL8973",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-03-08",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL1146",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "ATL",
+        "date": "2024-02-14",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL6190",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2023-12-27",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL1129",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-01-12",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL9937",
+        "airline": "LUFTHANSA",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2023-12-09",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL3441",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-03-19",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL3603",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2023-12-08",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL1221",
+        "airline": "LUFTHANSA",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-02-06",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL7316",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-01-24",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL9689",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-03-26",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL5082",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2024-01-22",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL4082",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2024-01-09",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL3053",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "JFK",
+        "date": "2024-01-28",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL8583",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2023-12-18",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL6964",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-02-03",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL6053",
+        "airline": "UNITED",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-02-16",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL1135",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2024-01-19",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL4160",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-02-06",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL4990",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-01-06",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL3586",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-01-08",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL4482",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "LAX",
+        "date": "2024-02-08",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL8545",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-01-26",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL7373",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-02-12",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL5637",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2023-12-14",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL2231",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-01-01",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL5882",
+        "airline": "EMIRATES",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-02-24",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL5194",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2024-02-20",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL8448",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-04-01",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL3329",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2024-02-16",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL1789",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2024-03-07",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL4516",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-02-14",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL8076",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-03-20",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL9441",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "LAX",
+        "date": "2024-01-24",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL4704",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2023-12-16",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL4198",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2023-12-08",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL1130",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-01-03",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL1738",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-02-01",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL9432",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2024-04-03",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL8838",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2024-02-21",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL4397",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2023-12-29",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL4712",
+        "airline": "LUFTHANSA",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-02-21",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL5292",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-01-23",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL9825",
+        "airline": "EMIRATES",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2024-02-05",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL6089",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-01-16",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL7053",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-01-08",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL9922",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-03-27",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL2136",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2024-02-25",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL9322",
+        "airline": "UNITED",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-02-15",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL7622",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-01-03",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL8562",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-02-26",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL5882",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-03-05",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL4519",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "LHR",
+        "date": "2024-03-09",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL4251",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-02-21",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL6832",
+        "airline": "EMIRATES",
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2024-02-08",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL4175",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-01-11",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL6643",
+        "airline": "LUFTHANSA",
+        "origin": "CDG",
+        "destination": "JFK",
+        "date": "2024-02-25",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL3403",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2024-01-19",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL3580",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-03-07",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL9680",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2023-12-08",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL9080",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2024-02-03",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL1696",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2024-01-08",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL3868",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "LHR",
+        "date": "2024-02-25",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL3800",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-01-17",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL1341",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-01-05",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL4021",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2024-04-01",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2809",
+        "airline": "EMIRATES",
+        "origin": "FRA",
+        "destination": "ATL",
+        "date": "2024-02-05",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL8845",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-01-23",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL8915",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-03-06",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL9845",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2023-12-09",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL6733",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-01-02",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2819",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-02-01",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL2933",
+        "airline": "AIR_FRANCE",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2024-02-18",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL7970",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-04-01",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL6970",
+        "airline": "UNITED",
+        "origin": "ATL",
+        "destination": "ORD",
+        "date": "2024-01-20",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL3483",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2023-12-31",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL9628",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "LHR",
+        "date": "2024-02-13",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL8642",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-03-20",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL7542",
+        "airline": "DELTA",
+        "origin": "ATL",
+        "destination": "CDG",
+        "date": "2024-03-04",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL5455",
+        "airline": "AIR_CANADA",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2024-01-19",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL5225",
+        "airline": "EMIRATES",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2023-12-28",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL9622",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "LAX",
+        "date": "2023-12-26",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL1792",
+        "airline": "QANTAS",
+        "origin": "ATL",
+        "destination": "HND",
+        "date": "2023-12-29",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL4117",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2024-02-23",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL8686",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-02-24",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL3928",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2023-12-26",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL5883",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2023-12-31",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL9228",
+        "airline": "AIR_CANADA",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-02-19",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL8549",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2024-03-18",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL1149",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "ORD",
+        "date": "2024-02-05",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL6906",
+        "airline": "DELTA",
+        "origin": "ORD",
+        "destination": "HND",
+        "date": "2024-02-21",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL3907",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-01-11",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL2808",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "ORD",
+        "date": "2024-01-15",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL7430",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2023-12-14",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL2276",
+        "airline": "QANTAS",
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2024-01-23",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL3821",
+        "airline": "QANTAS",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-02-15",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL6438",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "DXB",
+        "date": "2023-12-09",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL4592",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-02-20",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4164",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-01-22",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL9295",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "ATL",
+        "date": "2023-12-08",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL2370",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ATL",
+        "destination": "JFK",
+        "date": "2024-03-15",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL5168",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-01-02",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL7245",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "JFK",
+        "destination": "LHR",
+        "date": "2024-02-02",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL2192",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "FRA",
+        "date": "2024-03-14",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL2388",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2024-02-19",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL5032",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "LAX",
+        "date": "2023-12-18",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL3992",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-03-11",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL5025",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2024-03-05",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL5271",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-01-26",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL8073",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-02-20",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL2534",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2024-01-18",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL6373",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-01-19",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL7900",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-03-30",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL1572",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2024-01-25",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL9730",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-02-11",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL5389",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-01-02",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL8547",
+        "airline": "QANTAS",
+        "origin": "ATL",
+        "destination": "ORD",
+        "date": "2024-03-06",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL8383",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2024-01-24",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL9193",
+        "airline": "UNITED",
+        "origin": "HND",
+        "destination": "FRA",
+        "date": "2024-03-12",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL3773",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2023-12-20",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL3083",
+        "airline": "QANTAS",
+        "origin": "ATL",
+        "destination": "CDG",
+        "date": "2024-02-06",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL3565",
+        "airline": "LUFTHANSA",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-03-21",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL9486",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-01-05",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL9223",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-01-09",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL3415",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2023-12-19",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL9596",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-01-18",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL5553",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "DXB",
+        "destination": "FRA",
+        "date": "2024-04-01",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL3954",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-01-26",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL7173",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2023-12-24",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL5510",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2023-12-20",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL6955",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2023-12-26",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL4163",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-02-05",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL8613",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2024-03-08",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL8036",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2023-12-08",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL8288",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2023-12-17",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL3111",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2024-03-10",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL3864",
+        "airline": "AIR_CANADA",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-03-12",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL8529",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "LHR",
+        "date": "2024-02-27",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL8611",
+        "airline": "DELTA",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-02-15",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL8544",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2024-02-29",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL2481",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2023-12-12",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL7978",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "JFK",
+        "date": "2024-02-10",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL1180",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2024-03-21",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4578",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-01-12",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL7249",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-02-25",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL1199",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-02-07",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4407",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ORD",
+        "destination": "FRA",
+        "date": "2023-12-22",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL6257",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2024-01-04",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL8875",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LHR",
+        "destination": "LAX",
+        "date": "2023-12-11",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL7689",
+        "airline": "QANTAS",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-03-15",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL3515",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-01-22",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2465",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2024-02-03",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL9454",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-01-31",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL2178",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ORD",
+        "destination": "LAX",
+        "date": "2024-02-24",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL7588",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-03-24",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL2416",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2024-01-24",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL5774",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-02-27",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL9363",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-02-12",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL8993",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-03-24",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL6488",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "ORD",
+        "date": "2024-01-09",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL7943",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-01-16",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL8555",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-02-28",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL9058",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2024-01-07",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL9214",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "LHR",
+        "date": "2023-12-23",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL9264",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2023-12-05",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL3133",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "LAX",
+        "date": "2024-02-12",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL8740",
+        "airline": "UNITED",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2024-02-06",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL5789",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-01-15",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL1736",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2024-01-03",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL7242",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-02-23",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL1108",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-03-03",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL9092",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2023-12-28",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL6732",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-03-22",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL9246",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LAX",
+        "destination": "SYD",
+        "date": "2024-01-17",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL3289",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2023-12-21",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL4937",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "HND",
+        "date": "2024-01-14",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7157",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-01-09",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL9203",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2024-03-10",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL2022",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2024-01-16",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL9176",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-03-24",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL5941",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-03-18",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL2713",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "CDG",
+        "date": "2024-01-12",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL4219",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-04-01",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL6613",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-01-29",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL1755",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-03-14",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL8940",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "DXB",
+        "date": "2023-12-25",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL5393",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-02-13",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL1853",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-02-26",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL3658",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2023-12-05",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL4799",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-02-26",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL4812",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2023-12-22",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL4174",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-03-01",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL6547",
+        "airline": "DELTA",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2023-12-08",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL1973",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-02-06",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL7388",
+        "airline": "AIR_CANADA",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-01-11",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL3401",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2023-12-26",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL5862",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "SYD",
+        "date": "2024-02-22",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL5373",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-03-29",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL1639",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2023-12-23",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL4579",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-01-13",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL3210",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "HND",
+        "date": "2023-12-13",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL7634",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-03-09",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL9092",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2024-03-23",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL9307",
+        "airline": "QANTAS",
+        "origin": "HND",
+        "destination": "ORD",
+        "date": "2024-01-02",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL2096",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2023-12-09",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL8148",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2024-02-28",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL4353",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-03-18",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL4730",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "HND",
+        "date": "2024-03-22",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL7136",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-03-16",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL8232",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-02-11",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7512",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LAX",
+        "destination": "LHR",
+        "date": "2024-03-28",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL5538",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-03-02",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL1765",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "DXB",
+        "date": "2023-12-22",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL4684",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2024-01-16",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL5897",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-02-01",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL4524",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-03-30",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL6122",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-02-19",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL8409",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "HND",
+        "date": "2024-03-12",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL8963",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "FRA",
+        "date": "2024-01-19",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL5108",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-02-26",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL5772",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-02-15",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL4007",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "LHR",
+        "date": "2023-12-10",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL8687",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2023-12-27",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL8661",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2024-03-19",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL7248",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2024-01-19",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL8694",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-03-16",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL7381",
+        "airline": "LUFTHANSA",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-02-08",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL9906",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-01-02",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL5951",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-02-25",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL2799",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2023-12-11",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL7851",
+        "airline": "DELTA",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-01-05",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL9262",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "LAX",
+        "date": "2024-03-05",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL4227",
+        "airline": "QANTAS",
+        "origin": "ATL",
+        "destination": "DXB",
+        "date": "2024-01-17",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL6238",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-03-22",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL1885",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2023-12-17",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL8106",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "LHR",
+        "date": "2023-12-22",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL5873",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-01-06",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL1224",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "DXB",
+        "date": "2024-03-03",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL5224",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-03-22",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL2156",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-02-11",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL6307",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-02-17",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL9400",
+        "airline": "EMIRATES",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-02-12",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL2527",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-02-23",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL4446",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2024-03-29",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL5586",
+        "airline": "AIR_CANADA",
+        "origin": "SYD",
+        "destination": "CDG",
+        "date": "2024-03-01",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL9628",
+        "airline": "EMIRATES",
+        "origin": "ORD",
+        "destination": "FRA",
+        "date": "2024-02-20",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL8547",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2024-03-11",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL2095",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "LHR",
+        "date": "2024-01-19",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL1040",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LAX",
+        "destination": "LHR",
+        "date": "2023-12-09",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL2913",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2024-03-11",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL2409",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "JFK",
+        "date": "2024-03-15",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL6244",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2023-12-27",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL5986",
+        "airline": "DELTA",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2023-12-14",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL9413",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2024-02-18",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL1121",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-02-03",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL9716",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "LHR",
+        "date": "2023-12-26",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL2217",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-02-23",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL3060",
+        "airline": "EMIRATES",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2023-12-27",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL5605",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "LAX",
+        "date": "2024-02-08",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL7378",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2024-02-18",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL5010",
+        "airline": "EMIRATES",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-02-13",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL3232",
+        "airline": "QANTAS",
+        "origin": "JFK",
+        "destination": "LHR",
+        "date": "2024-03-24",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL3762",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "LHR",
+        "date": "2024-02-10",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL6737",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2024-02-05",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL6283",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-01-29",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL5974",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-03-17",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL9573",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-04-01",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL1534",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-03-26",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL5251",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "HND",
+        "date": "2023-12-14",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL7799",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "HND",
+        "date": "2024-03-25",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL7456",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2024-01-20",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL5834",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-03-05",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL1576",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2024-02-20",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL9028",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-02-05",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL5139",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-01-26",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL4688",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-02-09",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL3748",
+        "airline": "EMIRATES",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-02-04",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL7226",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "JFK",
+        "date": "2024-02-09",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL9437",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2024-03-26",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL2421",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-03-13",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL4603",
+        "airline": "QANTAS",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-01-22",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL1321",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-03-12",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL5414",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ORD",
+        "destination": "HND",
+        "date": "2024-03-27",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL4468",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-03-12",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL8026",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2024-02-21",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL5527",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2024-02-24",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL9716",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-03-15",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL8967",
+        "airline": "DELTA",
+        "origin": "ATL",
+        "destination": "HND",
+        "date": "2024-01-13",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL4965",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "JFK",
+        "date": "2024-03-17",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL1409",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "LHR",
+        "date": "2024-03-25",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL7871",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2023-12-30",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL3611",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-02-28",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL1597",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "ATL",
+        "date": "2024-03-27",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL4928",
+        "airline": "LUFTHANSA",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2024-01-24",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL2878",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-03-10",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL9372",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-01-24",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL4929",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-01-15",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL6652",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "LHR",
+        "date": "2024-02-20",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL3155",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-04-02",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL1445",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "LHR",
+        "date": "2024-02-06",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7553",
+        "airline": "EMIRATES",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2024-03-04",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL1060",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "LAX",
+        "date": "2024-01-28",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL3921",
+        "airline": "QANTAS",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-01-01",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL5043",
+        "airline": "DELTA",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-02-01",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL6805",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-02-15",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL4440",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-02-29",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL3280",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2024-02-19",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL5632",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2023-12-26",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL3255",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-03-08",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL9624",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "SYD",
+        "destination": "CDG",
+        "date": "2023-12-23",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL4038",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-03-22",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL8126",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2023-12-10",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL5248",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ORD",
+        "destination": "DXB",
+        "date": "2024-03-16",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL9312",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ORD",
+        "destination": "LHR",
+        "date": "2024-03-26",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL1748",
+        "airline": "UNITED",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-01-19",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL2283",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-03-11",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL2127",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-02-02",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL6253",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2023-12-31",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL4565",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2024-03-11",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL5972",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2023-12-06",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4038",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-02-18",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL3567",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2024-04-02",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL4811",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2024-01-17",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL7354",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-01-02",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL5410",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-03-09",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL7799",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "LAX",
+        "date": "2024-02-16",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL4264",
+        "airline": "EMIRATES",
+        "origin": "ORD",
+        "destination": "FRA",
+        "date": "2024-01-07",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL5982",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "CDG",
+        "date": "2024-03-27",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL5704",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "LAX",
+        "date": "2024-03-16",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL5664",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-01-11",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL3180",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2024-02-16",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL3092",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "JFK",
+        "destination": "LHR",
+        "date": "2024-02-13",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL5681",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-02-20",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL2976",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ORD",
+        "destination": "HND",
+        "date": "2024-01-21",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL3239",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2024-03-28",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL3065",
+        "airline": "AIR_CANADA",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-02-11",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL1057",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2023-12-05",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL7839",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ATL",
+        "destination": "JFK",
+        "date": "2024-03-02",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL9851",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2024-01-23",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL4984",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-02-17",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL2296",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2023-12-18",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL5913",
+        "airline": "DELTA",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-03-13",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL7757",
+        "airline": "QANTAS",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2023-12-29",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL6124",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-03-30",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL3964",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-03-27",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL8841",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-02-16",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL7923",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-01-13",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL2180",
+        "airline": "LUFTHANSA",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2023-12-14",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL5941",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "LHR",
+        "date": "2024-03-16",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL8752",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-01-15",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL5882",
+        "airline": "EMIRATES",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2023-12-20",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL9654",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "ATL",
+        "date": "2024-03-26",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL6092",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-02-12",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL7670",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-02-16",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL4349",
+        "airline": "LUFTHANSA",
+        "origin": "LAX",
+        "destination": "HND",
+        "date": "2023-12-08",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL8740",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2024-02-20",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL2780",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2023-12-30",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL7476",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2023-12-26",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL9098",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2023-12-11",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL2005",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-01-07",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL9395",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "SYD",
+        "date": "2024-03-21",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL4764",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LAX",
+        "destination": "LHR",
+        "date": "2023-12-29",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL9431",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2023-12-08",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL7797",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-03-02",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL4785",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2023-12-20",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL5811",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-02-26",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL9097",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "FRA",
+        "date": "2024-02-02",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL4712",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2023-12-16",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL6674",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-01-28",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL3773",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "ATL",
+        "date": "2024-03-15",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL4805",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-01-22",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL1934",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "JFK",
+        "date": "2023-12-26",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL5721",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-01-12",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL4767",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "ORD",
+        "date": "2024-01-15",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL4584",
+        "airline": "UNITED",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-01-01",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL1623",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-03-13",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL2138",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-02-17",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL3819",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "JFK",
+        "date": "2024-02-10",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL4600",
+        "airline": "DELTA",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2023-12-05",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL3104",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-02-01",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL1856",
+        "airline": "QANTAS",
+        "origin": "ATL",
+        "destination": "DXB",
+        "date": "2024-03-01",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL1204",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-03-14",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL5996",
+        "airline": "LUFTHANSA",
+        "origin": "HND",
+        "destination": "JFK",
+        "date": "2023-12-28",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL5085",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2024-02-22",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7343",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-02-29",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL5411",
+        "airline": "UNITED",
+        "origin": "HND",
+        "destination": "FRA",
+        "date": "2024-02-10",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL3254",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-02-16",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2001",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2023-12-10",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL6994",
+        "airline": "UNITED",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2024-03-31",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL9765",
+        "airline": "AIR_FRANCE",
+        "origin": "LHR",
+        "destination": "CDG",
+        "date": "2024-02-04",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL8581",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "JFK",
+        "destination": "ATL",
+        "date": "2024-01-30",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL6425",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-01-10",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL3249",
+        "airline": "LUFTHANSA",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2024-01-25",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL4614",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "LAX",
+        "date": "2024-02-10",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL8424",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2023-12-09",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL1106",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "SYD",
+        "destination": "CDG",
+        "date": "2024-01-25",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL6104",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-03-29",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL2237",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2024-02-15",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL7132",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2023-12-06",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL1803",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2023-12-13",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL9037",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "LAX",
+        "date": "2024-03-21",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL5812",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "CDG",
+        "date": "2024-01-21",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL8687",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2024-03-28",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL8869",
+        "airline": "EMIRATES",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-03-04",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL3582",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-01-08",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL4733",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2023-12-20",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL7697",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-02-26",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL1903",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-01-29",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL5393",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2024-02-07",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL5394",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-02-12",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL1249",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-01-04",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL9269",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2024-03-04",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL1406",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2023-12-25",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL3416",
+        "airline": "QANTAS",
+        "origin": "ATL",
+        "destination": "ORD",
+        "date": "2024-03-11",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL8263",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2023-12-16",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL6935",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2023-12-10",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL2559",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-03-29",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL7890",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "ATL",
+        "date": "2024-03-12",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL6573",
+        "airline": "EMIRATES",
+        "origin": "ATL",
+        "destination": "CDG",
+        "date": "2024-01-24",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL4739",
+        "airline": "DELTA",
+        "origin": "ATL",
+        "destination": "CDG",
+        "date": "2023-12-16",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL3000",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2023-12-25",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL1028",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2023-12-24",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL9146",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-02-05",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL3640",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2024-02-13",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL4356",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-02-09",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL3962",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "DXB",
+        "date": "2024-03-21",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL3581",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-01-19",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL7190",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-03-05",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL7499",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2023-12-06",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL1864",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2023-12-17",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL5647",
+        "airline": "EMIRATES",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2024-01-27",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL8620",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-01-03",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL8032",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LAX",
+        "destination": "SYD",
+        "date": "2024-01-08",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL7431",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-03-20",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL1302",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "LAX",
+        "date": "2023-12-23",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL1685",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-04-03",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL3719",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-02-10",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL1756",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "LHR",
+        "date": "2024-03-08",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL6672",
+        "airline": "QANTAS",
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2024-03-28",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL3210",
+        "airline": "UNITED",
+        "origin": "HND",
+        "destination": "ORD",
+        "date": "2023-12-11",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL8625",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "HND",
+        "date": "2024-03-06",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL8653",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2024-03-01",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL8201",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2024-02-22",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL6509",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-03-17",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL2316",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-03-09",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4133",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2024-03-16",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL5347",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2023-12-16",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL7469",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "ORD",
+        "date": "2024-02-02",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL7403",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-02-13",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL1803",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2024-01-21",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL4166",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2023-12-14",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL6361",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2023-12-22",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL1135",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "LAX",
+        "date": "2024-03-26",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL6094",
+        "airline": "EMIRATES",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-03-02",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL7403",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-02-01",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL9459",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-02-06",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL1006",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ORD",
+        "destination": "DXB",
+        "date": "2024-01-15",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL5704",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "ORD",
+        "date": "2024-01-02",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL6004",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-03-15",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL2716",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-01-24",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL8754",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2023-12-20",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL1707",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2024-02-15",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL7407",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2024-01-31",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL9558",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-01-25",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL2882",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2023-12-05",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL8482",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2024-03-30",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL1726",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "SYD",
+        "date": "2023-12-10",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL6368",
+        "airline": "EMIRATES",
+        "origin": "ORD",
+        "destination": "FRA",
+        "date": "2024-03-03",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL3275",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2023-12-15",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL8153",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "FRA",
+        "date": "2024-03-04",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL4182",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2024-02-08",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL1796",
+        "airline": "QANTAS",
+        "origin": "LHR",
+        "destination": "CDG",
+        "date": "2024-01-08",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL3794",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "LHR",
+        "date": "2024-02-19",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL3364",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-01-02",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL9916",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "ATL",
+        "date": "2024-04-03",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL2994",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-01-03",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL2740",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2024-02-26",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL7622",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-02-08",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL9669",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-02-14",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL4475",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-02-24",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL1010",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-02-18",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL5396",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2024-02-07",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL3442",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-01-01",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL5807",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2023-12-08",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL9521",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-02-25",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL1519",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-03-20",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL2299",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-03-16",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL7301",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-03-25",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL2306",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "JFK",
+        "date": "2024-03-06",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL6269",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-03-29",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL4226",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2023-12-12",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL3180",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2024-02-29",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL2568",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2024-03-12",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL3555",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "JFK",
+        "destination": "ATL",
+        "date": "2023-12-13",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL3038",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "SYD",
+        "date": "2024-02-14",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL9986",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-04-03",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL6237",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2023-12-06",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL2926",
+        "airline": "LUFTHANSA",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-02-24",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL9696",
+        "airline": "AIR_CANADA",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-02-12",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL7645",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2024-04-01",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL4436",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ORD",
+        "destination": "LHR",
+        "date": "2024-03-28",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL2152",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "LAX",
+        "date": "2024-02-20",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL2736",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-01-27",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL9928",
+        "airline": "LUFTHANSA",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-02-14",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL6936",
+        "airline": "AIR_CANADA",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2023-12-20",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL1531",
+        "airline": "LUFTHANSA",
+        "origin": "DXB",
+        "destination": "FRA",
+        "date": "2024-02-16",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL5436",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "LHR",
+        "date": "2024-01-13",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL5802",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2024-02-22",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL1722",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "LHR",
+        "date": "2023-12-30",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL1728",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2024-03-11",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL3264",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2023-12-20",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL9148",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-03-27",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL4381",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-01-12",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL8122",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2024-01-18",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL1665",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2023-12-22",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL7030",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "LAX",
+        "date": "2024-01-30",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL5589",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2023-12-22",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL8147",
+        "airline": "AIR_CANADA",
+        "origin": "CDG",
+        "destination": "JFK",
+        "date": "2024-01-03",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL9978",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2024-02-20",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL3896",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2024-03-28",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL9769",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LHR",
+        "destination": "LAX",
+        "date": "2024-02-26",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL7201",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-02-25",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL8115",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2023-12-29",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL8811",
+        "airline": "UNITED",
+        "origin": "ATL",
+        "destination": "CDG",
+        "date": "2023-12-24",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL5067",
+        "airline": "LUFTHANSA",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-02-11",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL4587",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "DXB",
+        "date": "2024-01-18",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL7404",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-02-03",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL6914",
+        "airline": "DELTA",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-03-03",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL9067",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "ATL",
+        "date": "2024-01-11",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL1465",
+        "airline": "EMIRATES",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-01-07",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL7133",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2023-12-30",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL4570",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2024-03-04",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL6368",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-01-13",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL2067",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "FRA",
+        "date": "2023-12-23",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL9805",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-02-13",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL6708",
+        "airline": "DELTA",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2024-03-16",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL7799",
+        "airline": "AIR_FRANCE",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2023-12-21",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL6396",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2024-01-15",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL5185",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2024-02-23",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL4316",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2024-03-22",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL1055",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "HND",
+        "date": "2024-02-22",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL6761",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-01-19",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL7944",
+        "airline": "LUFTHANSA",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2023-12-20",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL8697",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-01-04",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL5942",
+        "airline": "LUFTHANSA",
+        "origin": "DXB",
+        "destination": "LHR",
+        "date": "2023-12-20",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL9954",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2024-02-19",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL4254",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-03-11",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL7363",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2024-03-04",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL5846",
+        "airline": "QANTAS",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-01-10",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL9119",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2024-02-23",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL5888",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "DXB",
+        "date": "2024-03-17",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL5737",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2023-12-06",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL6434",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "SYD",
+        "date": "2024-03-05",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL2234",
+        "airline": "DELTA",
+        "origin": "ORD",
+        "destination": "SYD",
+        "date": "2024-01-21",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL8340",
+        "airline": "DELTA",
+        "origin": "ORD",
+        "destination": "FRA",
+        "date": "2024-01-18",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL4550",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2024-01-12",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL8430",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-02-01",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL8286",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "FRA",
+        "date": "2024-02-06",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL8097",
+        "airline": "LUFTHANSA",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-02-11",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL8177",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-03-28",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7522",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2024-02-02",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL7712",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "ORD",
+        "date": "2023-12-07",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL3955",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2023-12-15",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL3342",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LHR",
+        "destination": "DXB",
+        "date": "2024-01-23",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL3888",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-01-10",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL4860",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2023-12-31",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL7148",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "SYD",
+        "date": "2024-01-18",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL5284",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-01-22",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4386",
+        "airline": "AIR_CANADA",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2023-12-27",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL2427",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-02-06",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL8750",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-02-11",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL6712",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "LHR",
+        "date": "2024-02-21",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL4467",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-04-01",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL6127",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2023-12-28",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL7905",
+        "airline": "QANTAS",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2024-02-20",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL5618",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-01-26",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL9345",
+        "airline": "LUFTHANSA",
+        "origin": "LAX",
+        "destination": "LHR",
+        "date": "2024-03-27",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL4425",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "LHR",
+        "date": "2024-01-13",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL7667",
+        "airline": "UNITED",
+        "origin": "LHR",
+        "destination": "CDG",
+        "date": "2024-03-06",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL2391",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2023-12-08",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL3953",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-01-26",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2966",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "HND",
+        "date": "2024-01-09",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL8537",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "SYD",
+        "date": "2024-03-10",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL5863",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-02-12",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL8319",
+        "airline": "AIR_CANADA",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-01-15",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL4339",
+        "airline": "EMIRATES",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-03-24",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL2225",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "SYD",
+        "date": "2023-12-22",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL4812",
+        "airline": "DELTA",
+        "origin": "ORD",
+        "destination": "FRA",
+        "date": "2024-03-15",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL3039",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2023-12-11",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL5008",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "ATL",
+        "date": "2023-12-06",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL8781",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2024-02-25",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL2764",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2024-01-24",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL1117",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "CDG",
+        "date": "2024-01-11",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL4488",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2024-03-31",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL7524",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-01-29",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL9571",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "DXB",
+        "date": "2024-03-23",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL6594",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2024-03-25",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL6394",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-01-10",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL5242",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-03-22",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL7164",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-03-29",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL2401",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-02-05",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL4090",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "CDG",
+        "date": "2024-03-30",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7943",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-02-19",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL5587",
+        "airline": "QANTAS",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-01-02",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL1567",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-01-28",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL4446",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-02-17",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL9633",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-02-05",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL1098",
+        "airline": "AIR_FRANCE",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-02-23",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL8594",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "ORD",
+        "date": "2024-02-01",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL7194",
+        "airline": "LUFTHANSA",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-03-13",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL2830",
+        "airline": "LUFTHANSA",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-01-13",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL6432",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "HND",
+        "date": "2024-02-06",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL6979",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-03-16",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL3296",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2023-12-31",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL5723",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2023-12-21",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL7020",
+        "airline": "AIR_FRANCE",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2024-01-29",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL7139",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "HND",
+        "date": "2024-02-13",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL3060",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-01-11",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2260",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "CDG",
+        "date": "2024-03-09",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL4989",
+        "airline": "UNITED",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-01-31",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL7771",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2024-02-18",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL8324",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-02-17",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL6259",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-01-08",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7548",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-03-06",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL2833",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2024-01-20",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL3945",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-03-11",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL6194",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "LAX",
+        "date": "2024-01-26",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL7946",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-01-25",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7004",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2023-12-24",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL3819",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "CDG",
+        "date": "2024-02-14",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL1234",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "ATL",
+        "date": "2024-01-24",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL6364",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2023-12-16",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL2676",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ORD",
+        "destination": "FRA",
+        "date": "2023-12-05",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL7971",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2024-03-16",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL4016",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2024-04-01",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL8741",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2023-12-16",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL2766",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2023-12-17",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL3838",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2024-01-26",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL7895",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-01-20",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL8142",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2023-12-15",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL1351",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-02-02",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL2195",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2023-12-07",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL8378",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-01-07",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL6946",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2024-03-12",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL1454",
+        "airline": "EMIRATES",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-02-01",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL7585",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2023-12-11",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL8037",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-03-13",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL3302",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-01-07",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL9463",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "ATL",
+        "date": "2024-03-25",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL9512",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2023-12-15",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL3002",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-03-20",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL7182",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2023-12-28",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL6515",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "SYD",
+        "date": "2024-02-08",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL5317",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2023-12-05",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL8875",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-02-12",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL4945",
+        "airline": "EMIRATES",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2024-03-04",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL9368",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-01-05",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL1936",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2024-02-02",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL5951",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2024-01-17",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL3535",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-03-20",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL2025",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "DXB",
+        "date": "2023-12-24",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL5466",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2024-01-01",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL8953",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-02-19",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL3253",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-02-03",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL4872",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "JFK",
+        "date": "2023-12-26",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL2207",
+        "airline": "EMIRATES",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-02-20",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL3569",
+        "airline": "UNITED",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2024-02-04",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL3267",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-02-25",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL7567",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2023-12-30",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL6958",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "DXB",
+        "date": "2024-01-23",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL8099",
+        "airline": "QANTAS",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-03-19",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL6919",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-01-05",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL9070",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2023-12-23",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2392",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-03-25",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL8307",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-02-01",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL3631",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2023-12-21",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL5288",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "CDG",
+        "date": "2024-03-06",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL3903",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-01-31",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL7302",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2023-12-25",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL8863",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LAX",
+        "destination": "SYD",
+        "date": "2024-04-03",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL7242",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-03-04",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL1734",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-02-21",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL6596",
+        "airline": "EMIRATES",
+        "origin": "HND",
+        "destination": "ATL",
+        "date": "2024-01-25",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL5479",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2024-02-08",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL1018",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "LHR",
+        "date": "2024-01-17",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL8886",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-03-12",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL4494",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "LAX",
+        "date": "2023-12-19",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL2223",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "ATL",
+        "date": "2023-12-19",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL9795",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2024-03-25",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL7034",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "HND",
+        "date": "2024-01-09",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL1179",
+        "airline": "DELTA",
+        "origin": "CDG",
+        "destination": "JFK",
+        "date": "2023-12-10",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL2830",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "JFK",
+        "date": "2023-12-28",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL4242",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2023-12-17",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL9442",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "HND",
+        "date": "2024-01-15",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL5400",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ORD",
+        "destination": "SYD",
+        "date": "2024-01-30",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL9280",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-02-27",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL8772",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-01-02",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL6739",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "HND",
+        "date": "2024-01-27",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL5445",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-03-21",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7562",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-02-25",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL7365",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "LHR",
+        "date": "2023-12-09",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL5815",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "FRA",
+        "date": "2023-12-19",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL9164",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2024-03-29",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL9192",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-02-14",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL5788",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2024-03-12",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL4863",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-01-26",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL2237",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2024-03-19",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL2003",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2024-02-04",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL7099",
+        "airline": "QANTAS",
+        "origin": "HND",
+        "destination": "LAX",
+        "date": "2024-03-26",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL8134",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2024-03-05",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL7493",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2023-12-14",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL9658",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2024-03-16",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL1766",
+        "airline": "LUFTHANSA",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2024-04-01",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL7947",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "DXB",
+        "date": "2023-12-29",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL5786",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2024-01-30",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL5945",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-02-08",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL9145",
+        "airline": "LUFTHANSA",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-02-11",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL4176",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-02-26",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL5092",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2024-03-27",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL9103",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-01-13",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL7328",
+        "airline": "UNITED",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-03-24",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL7733",
+        "airline": "LUFTHANSA",
+        "origin": "HND",
+        "destination": "FRA",
+        "date": "2023-12-31",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4519",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-01-09",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL9003",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2023-12-17",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL8380",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-01-29",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL6544",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-02-08",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL2705",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2024-02-12",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL2221",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2024-02-07",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL4396",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "JFK",
+        "date": "2024-03-28",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL3817",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-01-10",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL5512",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-03-21",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL4246",
+        "airline": "EMIRATES",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-03-07",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL6465",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "LAX",
+        "date": "2023-12-07",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL8492",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "CDG",
+        "date": "2024-04-03",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL2427",
+        "airline": "DELTA",
+        "origin": "ATL",
+        "destination": "JFK",
+        "date": "2024-03-26",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL9759",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2024-01-02",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL3603",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "LHR",
+        "date": "2024-03-26",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL9622",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2023-12-07",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL3228",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-03-24",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2434",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2024-03-25",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL8419",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "JFK",
+        "date": "2024-01-12",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL4242",
+        "airline": "LUFTHANSA",
+        "origin": "CDG",
+        "destination": "JFK",
+        "date": "2024-03-25",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL9837",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-01-09",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL6947",
+        "airline": "DELTA",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-01-10",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL1683",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "SYD",
+        "date": "2024-02-10",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL6714",
+        "airline": "AIR_CANADA",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-02-05",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL9403",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2024-01-13",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL5093",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2024-03-05",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL6593",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-03-08",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL3157",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2024-01-28",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL4505",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-03-26",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL8225",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-02-24",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL9186",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-01-21",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL5024",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2023-12-06",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL9785",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2023-12-29",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL2080",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-02-24",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL5245",
+        "airline": "QANTAS",
+        "origin": "ATL",
+        "destination": "ORD",
+        "date": "2024-01-01",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL9801",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-02-13",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL8630",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "LHR",
+        "date": "2023-12-12",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL5135",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ATL",
+        "destination": "HND",
+        "date": "2024-03-08",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL3918",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-03-30",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL5793",
+        "airline": "AIR_CANADA",
+        "origin": "LAX",
+        "destination": "SYD",
+        "date": "2023-12-05",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL5661",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-03-03",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL1372",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-03-22",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL1418",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2024-02-29",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL8002",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-02-21",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL1450",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2023-12-15",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL1758",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "LAX",
+        "date": "2024-03-10",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL5115",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "SYD",
+        "date": "2024-01-21",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL7060",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-01-25",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL3349",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "DXB",
+        "date": "2024-02-24",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL9903",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2023-12-20",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL1936",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "FRA",
+        "date": "2024-03-29",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL4405",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2023-12-13",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL6649",
+        "airline": "EMIRATES",
+        "origin": "LHR",
+        "destination": "CDG",
+        "date": "2024-03-19",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL2462",
+        "airline": "LUFTHANSA",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2023-12-23",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL8340",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-01-06",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL9018",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2024-02-06",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL7416",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "JFK",
+        "date": "2023-12-16",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL6144",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-03-03",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL1873",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2023-12-13",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL2618",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-01-08",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL1816",
+        "airline": "DELTA",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-02-02",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL9120",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-01-06",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL5303",
+        "airline": "DELTA",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2023-12-06",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL7233",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2024-03-06",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL9372",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "LAX",
+        "date": "2024-01-06",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL6070",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "ORD",
+        "date": "2024-02-16",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL8585",
+        "airline": "AIR_CANADA",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-03-05",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL5448",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2024-02-03",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL1132",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-01-25",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4642",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2023-12-17",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL2249",
+        "airline": "DELTA",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-03-22",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL9319",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2023-12-13",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL5385",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-01-22",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4502",
+        "airline": "AIR_CANADA",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-01-14",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL6273",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2023-12-11",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL8135",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2024-02-29",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL8841",
+        "airline": "UNITED",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-03-27",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL3502",
+        "airline": "QANTAS",
+        "origin": "JFK",
+        "destination": "SYD",
+        "date": "2024-02-28",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL1558",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "DXB",
+        "date": "2024-01-03",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL8323",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2023-12-24",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL7784",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "DXB",
+        "date": "2024-03-30",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL5496",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2024-04-03",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL7055",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-03-16",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL6772",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "DXB",
+        "destination": "FRA",
+        "date": "2024-02-09",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL3696",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2024-02-13",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL1179",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-03-21",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL2889",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2024-02-23",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL9412",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2024-02-21",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL7475",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-03-02",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL4099",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-03-28",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL4788",
+        "airline": "EMIRATES",
+        "origin": "HND",
+        "destination": "ORD",
+        "date": "2024-03-05",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL7880",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "HND",
+        "date": "2024-01-15",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL6895",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "SYD",
+        "date": "2024-02-09",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL7547",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "ORD",
+        "date": "2024-03-30",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL5790",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "ATL",
+        "date": "2024-02-10",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL8878",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "ATL",
+        "date": "2024-02-20",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL1043",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2023-12-25",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL9554",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2023-12-16",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL3301",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-02-18",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL9820",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2023-12-12",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL9984",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "CDG",
+        "date": "2023-12-06",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL7874",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "FRA",
+        "destination": "JFK",
+        "date": "2024-02-26",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL3966",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "SYD",
+        "date": "2023-12-28",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL6878",
+        "airline": "UNITED",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2023-12-12",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL9172",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2023-12-09",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL5212",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "LAX",
+        "date": "2023-12-26",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL1849",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "LAX",
+        "date": "2024-01-23",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL1628",
+        "airline": "DELTA",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-04-03",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL2762",
+        "airline": "AIR_FRANCE",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2024-03-25",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL2152",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2024-02-05",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL4283",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "DXB",
+        "date": "2024-01-17",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL1830",
+        "airline": "UNITED",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2023-12-14",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL1063",
+        "airline": "AIR_FRANCE",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2024-02-12",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL3480",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2023-12-08",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL9874",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-03-17",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL2820",
+        "airline": "QANTAS",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2024-03-19",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL3290",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-01-28",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL8995",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2024-03-09",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL6061",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "SYD",
+        "date": "2024-01-22",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL1497",
+        "airline": "EMIRATES",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2023-12-10",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL4067",
+        "airline": "EMIRATES",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-03-17",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL8080",
+        "airline": "AIR_FRANCE",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-01-30",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL7147",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2023-12-20",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL1561",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "DXB",
+        "date": "2024-01-12",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL6758",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-01-31",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL4191",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "SYD",
+        "date": "2024-03-20",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL2597",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "LHR",
+        "date": "2024-01-15",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL9840",
+        "airline": "AIR_FRANCE",
+        "origin": "FRA",
+        "destination": "DXB",
+        "date": "2024-02-23",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL7052",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2024-02-02",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL9365",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-01-25",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL6236",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2023-12-12",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7345",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-02-11",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL8363",
+        "airline": "AIR_CANADA",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2024-03-02",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL5614",
+        "airline": "LUFTHANSA",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2024-02-28",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL8676",
+        "airline": "LUFTHANSA",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2023-12-20",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL7959",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2024-01-24",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL6920",
+        "airline": "DELTA",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2023-12-23",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL9383",
+        "airline": "LUFTHANSA",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2024-02-18",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL2294",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-01-01",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL1296",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "HND",
+        "date": "2024-03-17",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL6673",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-03-24",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL6529",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-02-09",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL3308",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2024-04-02",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL7954",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "HND",
+        "date": "2024-01-28",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL7725",
+        "airline": "AIR_CANADA",
+        "origin": "LHR",
+        "destination": "DXB",
+        "date": "2023-12-12",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL7413",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "FRA",
+        "date": "2024-01-05",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL6594",
+        "airline": "LUFTHANSA",
+        "origin": "ATL",
+        "destination": "JFK",
+        "date": "2023-12-26",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL5269",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "SYD",
+        "date": "2024-01-24",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL6409",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "LHR",
+        "date": "2024-02-05",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2614",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2023-12-30",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL6900",
+        "airline": "AIR_FRANCE",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2024-03-09",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL4622",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2023-12-29",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL2100",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2024-02-13",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL6750",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-01-10",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL7120",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "HND",
+        "date": "2024-01-28",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL7042",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "LAX",
+        "date": "2024-01-03",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL1466",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2024-02-21",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL7078",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-02-19",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL3672",
+        "airline": "QANTAS",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-01-21",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL6948",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2024-03-07",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL2193",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-01-07",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL3704",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "LAX",
+        "date": "2024-01-21",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL8313",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2023-12-13",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL5559",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "ATL",
+        "date": "2024-01-01",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL9333",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "DXB",
+        "date": "2023-12-30",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL4974",
+        "airline": "UNITED",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2023-12-20",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL4912",
+        "airline": "AIR_CANADA",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-03-29",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL6061",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-01-04",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL3619",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2024-02-06",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL5752",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2024-01-18",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL5028",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2023-12-08",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL2356",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-01-11",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL1165",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "JFK",
+        "date": "2024-03-07",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL8795",
+        "airline": "LUFTHANSA",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-02-26",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL2788",
+        "airline": "EMIRATES",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2023-12-20",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL7082",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-01-22",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL4371",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "ORD",
+        "date": "2024-03-26",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL4126",
+        "airline": "UNITED",
+        "origin": "DXB",
+        "destination": "SYD",
+        "date": "2023-12-20",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL1346",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2024-03-24",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL5267",
+        "airline": "DELTA",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-02-17",
+        "duration": "06h 15m"
+    },
+    {
+        "flightId": "FL6981",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-02-20",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL4471",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2024-03-16",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL4586",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2023-12-12",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL3489",
+        "airline": "DELTA",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-02-11",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL8018",
+        "airline": "EMIRATES",
+        "origin": "LAX",
+        "destination": "JFK",
+        "date": "2024-03-04",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL1704",
+        "airline": "EMIRATES",
+        "origin": "ORD",
+        "destination": "LHR",
+        "date": "2024-03-25",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL6396",
+        "airline": "AIR_FRANCE",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2024-02-07",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL2829",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-01-28",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL7882",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2023-12-18",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL3474",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-01-01",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL8558",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-03-01",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL7926",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "SYD",
+        "date": "2024-03-25",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL9995",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "ORD",
+        "date": "2023-12-06",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL1353",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "ATL",
+        "date": "2024-01-12",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL2053",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "ATL",
+        "date": "2024-02-21",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL3004",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-02-16",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL2626",
+        "airline": "DELTA",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2024-01-28",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL5815",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "JFK",
+        "destination": "HND",
+        "date": "2024-02-28",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL1750",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "CDG",
+        "date": "2024-02-29",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL3014",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-01-04",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL5428",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "JFK",
+        "date": "2024-02-05",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL3067",
+        "airline": "QANTAS",
+        "origin": "DXB",
+        "destination": "ATL",
+        "date": "2023-12-26",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL7917",
+        "airline": "AIR_CANADA",
+        "origin": "HND",
+        "destination": "FRA",
+        "date": "2024-03-20",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL3173",
+        "airline": "UNITED",
+        "origin": "LHR",
+        "destination": "HND",
+        "date": "2024-02-24",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL5324",
+        "airline": "DELTA",
+        "origin": "DXB",
+        "destination": "FRA",
+        "date": "2024-03-07",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL1989",
+        "airline": "LUFTHANSA",
+        "origin": "SYD",
+        "destination": "LHR",
+        "date": "2024-01-26",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL4009",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "ATL",
+        "date": "2023-12-15",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL5966",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-03-10",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL6624",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2023-12-16",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL6707",
+        "airline": "QANTAS",
+        "origin": "SYD",
+        "destination": "CDG",
+        "date": "2023-12-14",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL6899",
+        "airline": "UNITED",
+        "origin": "LHR",
+        "destination": "LAX",
+        "date": "2024-01-04",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL6514",
+        "airline": "AIR_FRANCE",
+        "origin": "LAX",
+        "destination": "CDG",
+        "date": "2024-03-02",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL6207",
+        "airline": "LUFTHANSA",
+        "origin": "HND",
+        "destination": "JFK",
+        "date": "2024-02-23",
+        "duration": "01h 15m"
+    },
+    {
+        "flightId": "FL4917",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "SYD",
+        "destination": "ORD",
+        "date": "2024-02-21",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL6201",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "JFK",
+        "date": "2024-02-28",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL3320",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-04-01",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL5764",
+        "airline": "UNITED",
+        "origin": "LHR",
+        "destination": "JFK",
+        "date": "2024-03-20",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL4651",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LAX",
+        "destination": "ATL",
+        "date": "2024-01-07",
+        "duration": "04h 00m"
+    },
+    {
+        "flightId": "FL5060",
+        "airline": "AIR_CANADA",
+        "origin": "ORD",
+        "destination": "DXB",
+        "date": "2024-01-14",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL6225",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2024-02-19",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL3808",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-03-19",
+        "duration": "05h 15m"
+    },
+    {
+        "flightId": "FL2727",
+        "airline": "DELTA",
+        "origin": "CDG",
+        "destination": "FRA",
+        "date": "2024-03-25",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL4624",
+        "airline": "EMIRATES",
+        "origin": "ATL",
+        "destination": "SYD",
+        "date": "2024-03-26",
+        "duration": "02h 45m"
+    },
+    {
+        "flightId": "FL5897",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "LHR",
+        "destination": "FRA",
+        "date": "2024-01-13",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL6114",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2024-02-26",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL4445",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "DXB",
+        "date": "2023-12-27",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL9535",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "LAX",
+        "destination": "FRA",
+        "date": "2024-02-23",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL3101",
+        "airline": "EMIRATES",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-03-17",
+        "duration": "03h 30m"
+    },
+    {
+        "flightId": "FL2970",
+        "airline": "AIR_CANADA",
+        "origin": "DXB",
+        "destination": "ORD",
+        "date": "2024-04-03",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL6101",
+        "airline": "UNITED",
+        "origin": "LAX",
+        "destination": "DXB",
+        "date": "2024-03-10",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL5566",
+        "airline": "DELTA",
+        "origin": "JFK",
+        "destination": "CDG",
+        "date": "2024-03-23",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL1664",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2024-03-03",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL4624",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-03-04",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL9235",
+        "airline": "EMIRATES",
+        "origin": "CDG",
+        "destination": "ATL",
+        "date": "2024-02-11",
+        "duration": "01h 30m"
+    },
+    {
+        "flightId": "FL3494",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-03-04",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL8671",
+        "airline": "UNITED",
+        "origin": "ATL",
+        "destination": "FRA",
+        "date": "2024-02-06",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL5580",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "DXB",
+        "date": "2024-01-24",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL6018",
+        "airline": "QANTAS",
+        "origin": "HND",
+        "destination": "LAX",
+        "date": "2024-03-04",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL5695",
+        "airline": "QANTAS",
+        "origin": "ORD",
+        "destination": "HND",
+        "date": "2023-12-17",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL9569",
+        "airline": "EMIRATES",
+        "origin": "SYD",
+        "destination": "HND",
+        "date": "2024-02-11",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL2557",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "FRA",
+        "destination": "LAX",
+        "date": "2024-02-17",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL8293",
+        "airline": "UNITED",
+        "origin": "CDG",
+        "destination": "ORD",
+        "date": "2024-01-21",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL2733",
+        "airline": "UNITED",
+        "origin": "JFK",
+        "destination": "FRA",
+        "date": "2024-03-13",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL5831",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "DXB",
+        "destination": "CDG",
+        "date": "2024-03-02",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL1939",
+        "airline": "QANTAS",
+        "origin": "FRA",
+        "destination": "LHR",
+        "date": "2024-01-18",
+        "duration": "03h 15m"
+    },
+    {
+        "flightId": "FL5753",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "JFK",
+        "date": "2023-12-11",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL8812",
+        "airline": "EMIRATES",
+        "origin": "ATL",
+        "destination": "CDG",
+        "date": "2024-03-09",
+        "duration": "06h 00m"
+    },
+    {
+        "flightId": "FL1337",
+        "airline": "DELTA",
+        "origin": "ORD",
+        "destination": "ATL",
+        "date": "2024-02-28",
+        "duration": "06h 45m"
+    },
+    {
+        "flightId": "FL2219",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2024-01-04",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL6464",
+        "airline": "SINGAPORE_AIRLINES",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-03-12",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL8687",
+        "airline": "LUFTHANSA",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-01-18",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL2216",
+        "airline": "EMIRATES",
+        "origin": "DXB",
+        "destination": "LHR",
+        "date": "2024-01-04",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL7085",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "ORD",
+        "date": "2024-01-27",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL4315",
+        "airline": "QANTAS",
+        "origin": "LHR",
+        "destination": "SYD",
+        "date": "2023-12-22",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL4284",
+        "airline": "AIR_FRANCE",
+        "origin": "DXB",
+        "destination": "HND",
+        "date": "2024-03-18",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL1331",
+        "airline": "DELTA",
+        "origin": "ATL",
+        "destination": "LAX",
+        "date": "2024-03-30",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL2776",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2024-02-07",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL2700",
+        "airline": "QANTAS",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-01-14",
+        "duration": "04h 15m"
+    },
+    {
+        "flightId": "FL1383",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "FRA",
+        "date": "2024-01-23",
+        "duration": "01h 00m"
+    },
+    {
+        "flightId": "FL7196",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "SYD",
+        "destination": "ATL",
+        "date": "2024-02-05",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL9174",
+        "airline": "DELTA",
+        "origin": "HND",
+        "destination": "JFK",
+        "date": "2024-02-18",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL9658",
+        "airline": "AIR_FRANCE",
+        "origin": "HND",
+        "destination": "DXB",
+        "date": "2024-01-06",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL7332",
+        "airline": "AIR_CANADA",
+        "origin": "ATL",
+        "destination": "LHR",
+        "date": "2024-03-24",
+        "duration": "03h 45m"
+    },
+    {
+        "flightId": "FL9237",
+        "airline": "QANTAS",
+        "origin": "LAX",
+        "destination": "ORD",
+        "date": "2024-03-22",
+        "duration": "04h 45m"
+    },
+    {
+        "flightId": "FL6397",
+        "airline": "AIR_FRANCE",
+        "origin": "ATL",
+        "destination": "HND",
+        "date": "2024-04-03",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL7628",
+        "airline": "QANTAS",
+        "origin": "CDG",
+        "destination": "SYD",
+        "date": "2024-02-20",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL5385",
+        "airline": "UNITED",
+        "origin": "ORD",
+        "destination": "FRA",
+        "date": "2024-03-23",
+        "duration": "05h 00m"
+    },
+    {
+        "flightId": "FL1057",
+        "airline": "UNITED",
+        "origin": "FRA",
+        "destination": "HND",
+        "date": "2024-01-26",
+        "duration": "04h 30m"
+    },
+    {
+        "flightId": "FL1579",
+        "airline": "AMERICAN_AIRLINES",
+        "origin": "JFK",
+        "destination": "ATL",
+        "date": "2024-03-28",
+        "duration": "02h 00m"
+    },
+    {
+        "flightId": "FL2578",
+        "airline": "AIR_CANADA",
+        "origin": "JFK",
+        "destination": "LAX",
+        "date": "2024-02-06",
+        "duration": "03h 00m"
+    },
+    {
+        "flightId": "FL3457",
+        "airline": "AIR_FRANCE",
+        "origin": "SYD",
+        "destination": "FRA",
+        "date": "2024-02-02",
+        "duration": "01h 45m"
+    },
+    {
+        "flightId": "FL3177",
+        "airline": "AIR_FRANCE",
+        "origin": "JFK",
+        "destination": "ORD",
+        "date": "2023-12-26",
+        "duration": "06h 30m"
+    },
+    {
+        "flightId": "FL7109",
+        "airline": "UNITED",
+        "origin": "HND",
+        "destination": "CDG",
+        "date": "2024-03-15",
+        "duration": "05h 30m"
+    },
+    {
+        "flightId": "FL1160",
+        "airline": "LUFTHANSA",
+        "origin": "LHR",
+        "destination": "ATL",
+        "date": "2024-01-20",
+        "duration": "05h 45m"
+    },
+    {
+        "flightId": "FL5911",
+        "airline": "BRITISH_AIRWAYS",
+        "origin": "CDG",
+        "destination": "LHR",
+        "date": "2024-02-24",
+        "duration": "02h 30m"
+    },
+    {
+        "flightId": "FL7660",
+        "airline": "EMIRATES",
+        "origin": "HND",
+        "destination": "LHR",
+        "date": "2024-03-20",
+        "duration": "02h 15m"
+    },
+    {
+        "flightId": "FL3227",
+        "airline": "QANTAS",
+        "origin": "HND",
+        "destination": "LAX",
+        "date": "2024-01-31",
+        "duration": "02h 15m"
+    }
+]
