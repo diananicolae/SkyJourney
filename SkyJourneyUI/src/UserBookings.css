@@ -1,0 +1,73 @@
+.my-bookings-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left; /* Align text to the left */
+  }
+  
+  .my-bookings-container h2 {
+    text-align: left; /* Align heading text to the left */
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  .my-bookings-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .my-bookings-list li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .my-bookings-list p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .my-bookings-list .important-detail {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .status-confirmed {
+    color: rgb(16, 165, 16);
+    font-weight: bold;
+  }
+  
+  .status-checked-in {
+    color: #007bff;
+    font-weight: bold;
+  }
+
+  .status-cancelled {
+    color: rgb(210, 50, 50);
+    font-weight: bold;
+  }
+  
+  .check-in-button {
+    background-color: rgb(16, 165, 16);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  .cancel-button {
+    background-color: rgb(210, 50, 50);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  .check-in-button:hover, .cancel-button:hover {
+    opacity: 0.8;
+  }

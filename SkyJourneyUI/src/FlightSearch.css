@@ -1,0 +1,68 @@
+/* FlightSearch.css */
+.flight-search-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.flight-search-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.flight-search-form input,
+.flight-search-form select {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.flight-search-form button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.flight-search-form button:hover {
+    background-color: #0056b3;
+}
+
+.flight-result {
+    list-style-type: none;
+    padding: 0;
+}
+
+.flight-result li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.flight-detail {
+    margin: 5px 0;
+}
+
+.flight-result button {
+    padding: 12px 20px;  /* Increased padding for a bigger size */
+    background-color: #007bff;  /* Blue background color */
+    color: white;  /* White text for better contrast */
+    border: none;
+    border-radius: 5px;  /* Rounded corners */
+    font-size: 1rem;  /* Larger font size */
+    cursor: pointer;
+    margin-top: 10px;  /* Space above the button */
+  }
+  
+  .flight-result button:hover {
+    background-color: #0056b3;  /* Slightly darker blue on hover for visual feedback */
+  }
+  

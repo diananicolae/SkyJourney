@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App h1 {
+  color: #333;
+  font-size: 2.5rem;
+}
+
+.App .title-icon {
+  margin-right: 10px;
+  color: #007bff;
+}
+
+.navigation-tab {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f1f1f1;
+  padding: 10px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+}
+
+.nav-text {
+  margin-right: 20px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  font-size: 1rem;
+  line-height: 1.5;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-text .title-icon {
+  margin-right: 10px;
+  color: white;
+}
+
+.nav-left,
+.nav-right {
+  display: flex;
+}
+
+.nav-button, .nav-button:visited, .nav-button:active {
+  text-decoration: none;
+}
+
+.nav-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.nav-button:hover, .logout-button:hover {
+  background-color: #0056b3;
+}
+
+.logout-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 1px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+}
