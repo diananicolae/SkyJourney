@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sky-journey-core-deployment
+  namespace: core
+  labels:
+    app: sky-journey-core
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sky-journey-core
+  template:
+    metadata:
+      labels:
+        app: sky-journey-core
+    spec:
+      containers:
+        - name: sky-journey-core
+          image: diananicolae/sky-journey-core:latest
+          imagePullPolicy: Always
+          env:
+            - name: MONGODB_URI
+              value: "mongodb://sky-journey-db-service:27017/sky-journey-database"
+            - name: AUTH_SERVICE_URI
+              value: "http://sky-journey-auth-service:8082"
+          ports:
+            - containerPort: 8080

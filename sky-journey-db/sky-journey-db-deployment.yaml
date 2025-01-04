@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sky-journey-db-deployment
+  namespace: core
+  labels:
+    app: sky-journey-db
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sky-journey-db
+  template:
+    metadata:
+      labels:
+        app: sky-journey-db
+    spec:
+      containers:
+        - name: sky-journey-db
+          image: diananicolae/sky-journey-db:latest
+          ports:
+            - containerPort: 27017

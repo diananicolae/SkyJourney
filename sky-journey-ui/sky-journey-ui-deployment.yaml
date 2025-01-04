@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sky-journey-ui-deployment
+  namespace: core
+  labels:
+    app: sky-journey-ui
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sky-journey-ui
+  template:
+    metadata:
+      labels:
+        app: sky-journey-ui
+    spec:
+      containers:
+      - name: sky-journey-ui
+        image: diananicolae/sky-journey-ui:latest
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80

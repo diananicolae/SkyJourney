@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sky-journey-dbadmin-deployment
+  namespace: dbadmin
+  labels:
+    app: sky-journey-dbadmin
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sky-journey-dbadmin
+  template:
+    metadata:
+      labels:
+        app: sky-journey-dbadmin
+    spec:
+      containers:
+        - name: sky-journey-dbadmin
+          image: mongo-express
+          ports:
+            - containerPort: 8081
+          env:
+            - name: ME_CONFIG_MONGODB_SERVER
+              value: "sky-journey-db-service.core.svc.cluster.local"

@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sky-journey-portainer-deployment
+  namespace: portainer
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sky-journey-portainer
+  template:
+    metadata:
+      labels:
+        app: sky-journey-portainer
+    spec:
+      serviceAccountName: portainer-sa
+      containers:
+        - name: sky-journey-portainer
+          image: portainer/portainer-ce:latest
+          ports:
+            - containerPort: 9000
+          volumeMounts:
+            - name: data
+              mountPath: /data
+      volumes:
+        - name: data
+          emptyDir: {}

@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sky-journey-payment-deployment
+  namespace: core
+  labels:
+    app: sky-journey-payment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sky-journey-payment
+  template:
+    metadata:
+      labels:
+        app: sky-journey-payment
+    spec:
+      containers:
+        - name: sky-journey-payment
+          image: diananicolae/sky-journey-payment:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8081
